@@ -3,6 +3,8 @@
 This project contains a shell script to calculate simple interest using the formula:  
 **SI = (P × T × R) / 100**  
 
+This line was added as part of the bug-fix-typo branch.
+
 ## Files Included  
 - simple-interest.sh : Bash script to calculate simple interest.  
 - LICENSE : Apache 2.0 License file.  
@@ -12,7 +14,5 @@ This project contains a shell script to calculate simple interest using the form
 ## Usage  
 Run the script in a terminal:  
 ```bash
-
-## This line was added as part of the bug-fix-typo branch.
 
 bash simple-interest.sh

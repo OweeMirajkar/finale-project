@@ -16,3 +16,5 @@ Run the script in a terminal:
 ```bash
 
 bash simple-interest.sh
+
+This line was added in branch bug-fix-typo for merge test.

@@ -12,4 +12,7 @@ This project contains a shell script to calculate simple interest using the form
 ## Usage  
 Run the script in a terminal:  
 ```bash
+
+## This line was added as part of the bug-fix-typo branch.
+
 bash simple-interest.sh
